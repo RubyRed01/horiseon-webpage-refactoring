@@ -9,3 +9,5 @@ The goal is to create accessibility in the code for both HTML and CCS files. Thi
  - Heading attributes in sequential order
  - Descriptive title element
  - And, proper comment structure in the stylesheet
+
+Along the way, the existing functional code shall be double checked to ensure it all works (making sure links work, styling is actually appearing correctly etc.)
